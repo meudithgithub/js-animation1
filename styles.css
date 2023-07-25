@@ -1,0 +1,14 @@
+#canvas1
+{
+    position: absolute;
+    
+    width: 500;
+    height: 1000;
+    border: 10px solid black;
+    background-color: azure;
+}
+body{
+    position: relative;
+    place-items: center;
+    background-color: #435B66;
+}
